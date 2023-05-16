@@ -29,8 +29,8 @@ mediapipe_env\Scripts\activate
 4. 下載本範例並進入範例路徑  
 git clone --depth=1 https://github.com/OmniXRI/PPT_Gesture_Demo.git  
 cd PPT_Gesture_Demo  
-6. 開啟 Power Point 簡報並最大化  
-7. 執行範例程式，執行後游標會移到視窗最上方並點擊 Power Point 檔案並進入播放模式。而範例程式及視窗會自動移到背景執行（不可視）。   
+5. 開啟 Power Point 簡報並最大化  
+6. 執行範例程式，執行後游標會移到視窗最上方並點擊 Power Point 檔案並進入播放模式。而範例程式及視窗會自動移到背景執行（不可視）。   
 python ppt_gesture_demo.py  
-8. 當偵測到「打開手掌」動作就能自動播放下一頁。
-9. 當欲結束控制時，點擊網路攝影機視窗後，再按「q」或「ESC」鍵即可離開程式
+7. 當偵測到「打開手掌」動作就能自動播放下一頁。
+8. 當欲結束控制時，點擊網路攝影機視窗後，再按「q」或「ESC」鍵即可離開程式
