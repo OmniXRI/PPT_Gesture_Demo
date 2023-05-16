@@ -21,7 +21,7 @@ pip install pyautogui
 deactivate  
 
 使用方式：  
-1. 進入命令列模式 cmd  
+1. 進入命令列模式 cmd，注意不要讓視窗最大化，可調整到畫面2/3大小大約置於螢幕中間即可。
 2. 切換到想要工作的磁碟 x （依安裝磁碟決定）  
 x:  
 3. 啟動 Python 虛擬環境  
@@ -34,5 +34,3 @@ cd PPT_Gesture_Demo
 python ppt_gesture_demo.py  
 8. 當偵打開手掌動作就能自動播放下一頁。
 9. 當欲結束控制時，點擊網路攝影機視窗後，再按「q」或「ESC」鍵即可離開程式
-
-
